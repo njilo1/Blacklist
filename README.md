@@ -1,6 +1,6 @@
 # Blacklist
 
-	#Description du projet:
+	##Description du projet:
 
 		ce projet permettra d'enregistrer les noms des bavards dans un fichier texte, de rechercher
 	un nom dans ce fichier pour vérifier sa présence, et de supprimer un nom du fichier si nécessaire.
